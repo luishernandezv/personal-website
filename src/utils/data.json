@@ -1,0 +1,49 @@
+{
+  "jobs": [
+    {
+      "company": "Sauce Labs",
+      "position": "Software Engineer",
+      "date": "2019 - Present",
+      "descriptions": [
+        "Working on a team building Sauce Labs’ visual testing offering. Screener.",
+        "DevOps"
+      ]
+    },
+    {
+      "company": "This Game Studio",
+      "position": "Software Engineer",
+      "date": "2016 - 2019",
+      "descriptions": [
+        "Working closely with game designers performing requirement analysis to be able to design and implement the infrastructure, backend, and front end services for several mobile games (Lineage II - Dark Legacy, Chaos Battle League and Oz Broken Kingdom).",
+        "One of my main contributions was expanding the functionality of the studio’s web admin panel which is the core of our live operations."
+      ]
+    },
+    {
+      "company": "RoadHouse Interactive",
+      "position": "Software Engineer",
+      "date": "2015 – 2016",
+      "descriptions": [
+        "UI and live operations engineer for Iron Maiden Legacy of the Beast. Designed and implemented the client data models, and core UI components for the game so other developers could reuse them when building their interfaces.",
+        "Live operations"
+      ]
+    },
+    {
+      "company": "DeNA",
+      "position": "Software Engineer",
+      "date": "2012 - 2015",
+      "descriptions": [
+        "Full stack development and live operations engineer for 6 mobile games including: Transformers Battle Tactics, G.I. Joe Battleground, Please Stay Calm, Pocket Planes among others.",
+        "Submission of game versions.",
+        "Building and maintaining the CI/CD pipelines."
+      ]
+    },
+    {
+      "company": "SocialWeb",
+      "position": "Software Engineer",
+      "date": "2010 - 2012",
+      "descriptions": [
+        "Lead Engineer for SocialMeter.tv, television based social network. Involved in designing and maintaining the product."
+      ]
+    }
+  ]
+}

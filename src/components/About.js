@@ -10,7 +10,7 @@ const About = () => (
       <h1 className="text-sm text-secondary font-bold uppercase text-center mb-5 md:text-lg">
         About me
       </h1>
-      <div className="text-black flex flex-col align-center items-center text-left px-10">
+      <div className="text-black flex flex-col align-center items-center text-left px-10 lg:text-center">
         <p className="text-sm font-light mb-2 md:text-lg">
           I'm a Senior Software Engineer with over 10 years of experience in
           building custom performant and scalable solutions.

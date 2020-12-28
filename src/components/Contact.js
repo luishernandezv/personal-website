@@ -9,11 +9,15 @@ const Contact = () => (
       Where to find me
     </h1>
     <div className="flex justify-center">
-      <a href="https://github.com/" target="_blank" rel="noopener noreferrer">
+      <a
+        href="https://github.com/luishernandezv"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
         <img src={GithubSVG} alt="Github Logo" className="w-8 h-8 " />
       </a>
       <a
-        href="https://github.com/luishernandezv"
+        href="https://instagram.com/colombox"
         target="_blank"
         rel="noopener noreferrer"
       >
